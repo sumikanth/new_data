@@ -1,0 +1,6 @@
+{
+    "type":"stream",
+    "source":"file",
+    "source_location":"/opt/airflow/new_fol/test_data/majestic_million.csv",
+    "destination":"kafka"
+}

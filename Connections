@@ -1,0 +1,4 @@
+ID: spark_default
+Type: spark 
+Host: spark://spark:7077
+Port: 7077
